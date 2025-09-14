@@ -1,0 +1,23 @@
+{
+  "name": "abdelrahman-portfolio",
+  "version": "1.0.0",
+  "description": "Modern portfolio website for Abdelrahman Eltaweel - Front-End Developer & UI/UX Enthusiast",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "developer",
+    "ui-ux",
+    "javascript",
+    "html",
+    "css",
+    "responsive"
+  ],
+  "author": "Abdelrahman Eltaweel",
+  "license": "MIT"
+}
