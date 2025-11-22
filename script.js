@@ -1,4 +1,5 @@
 // Smooth scrolling and navigation
+
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize all animations and interactions
     initParticles();
